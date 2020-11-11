@@ -131,7 +131,7 @@ body{
 
 /*upload.html page */
 .upload{
-    width: 325px;
+    width: 280px;
     height: 480px;
     margin: 15px;
     padding-left: 5px;
@@ -139,7 +139,7 @@ body{
     border: 5px solid burlywood;
 }
 .uploadPic{
-    width: 300px;
+    width: 260px;
     height: 360px;
     margin-bottom: 10px;
     background-color: #dddddd;
@@ -147,10 +147,10 @@ body{
 }
 .upload input{
     font-size: 12pt;
-    width: 300px;
+    width: 260px;
 }
 .upload textarea{
-    width: 300px;
+    width: 260px;
     height: 155px;
     resize: none;
 }
